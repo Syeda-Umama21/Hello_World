@@ -1,2 +1,6 @@
 # Hello_World
-This code will print the text Hello world! to the console.
+This is my first GitHub Repository.
+<br>
+Author: Umama-Shah
+<br>
+This code will print the text Hello World! to the console.
